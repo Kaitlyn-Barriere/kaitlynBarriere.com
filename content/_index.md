@@ -1,5 +1,5 @@
 ---
 title: Kaitlyn Barriere
 description: Research Coordinator
-background: "/images/bg.jpg"
+background: "/images/psych_img.png"
 ---
