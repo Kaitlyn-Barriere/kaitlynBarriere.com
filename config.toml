@@ -1,0 +1,4 @@
+baseURL = "https://kaitlynbarriere.com/"
+languageCode = "en-us"
+title = "Kaitlyn Barriere"
+theme = "hugo-theme-dimension"
