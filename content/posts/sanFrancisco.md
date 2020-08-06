@@ -4,4 +4,4 @@ description: "A collection of posts"
 icon: "flag"
 ---
 
-![Psychology image](/images/psych_img.png)
+![Psychology image](/images/bg.jpg)
