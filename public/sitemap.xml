@@ -1,10 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://kaitlynbarriere.com/categories/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kaitlynbarriere.com/clinicalexperience/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kaitlynbarriere.com/elements/</loc>
   </url>
   
   <url>
@@ -16,20 +23,15 @@
   </url>
   
   <url>
-    <loc>https://kaitlynbarriere.com/posts/sanfrancisco/</loc>
-  </url>
-  
-  <url>
     <loc>https://kaitlynbarriere.com/research_interests/</loc>
   </url>
   
   <url>
     <loc>https://kaitlynbarriere.com/tags/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kaitlynbarriere.com/elements/</loc>
+    <loc>https://kaitlynbarriere.com/posts/sanfrancisco/</loc>
   </url>
   
 </urlset>

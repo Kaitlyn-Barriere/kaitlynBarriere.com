@@ -1,7 +1,14 @@
 ---
-title: "Posts"
+title: "Vail"
 description: "A collection of posts"
 icon: "flag"
+background: "/images/northVail.jpg"
+# [[images]]
+#   src = "/images/northVail.jpg"
+#   alt = "northVail"
+#   width = "200px"
 ---
 
-![Psychology image](/images/bg.jpg)
+<!-- <img src="/images/northVail.jpg" width="200" height="300"> -->
+
+<!-- ![Psychology image](/images/northVail.jpg =200x300) -->

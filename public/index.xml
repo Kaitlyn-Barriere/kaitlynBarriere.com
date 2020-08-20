@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kaitlyn Barriere</title>
@@ -11,21 +11,12 @@
     
     
     <item>
-      <title>Posts</title>
-      <link>https://kaitlynbarriere.com/posts/sanfrancisco/</link>
+      <title>Clinical Experience</title>
+      <link>https://kaitlynbarriere.com/clinicalexperience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kaitlynbarriere.com/posts/sanfrancisco/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research Interests</title>
-      <link>https://kaitlynbarriere.com/research_interests/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kaitlynbarriere.com/research_interests/</guid>
-      <description> Suicide and Self-Harm My primary interest is in studying suicide and self-harm, particularly as it relates to masculinity. </description>
+      <guid>https://kaitlynbarriere.com/clinicalexperience/</guid>
+      <description>Clinical Certifications  Structured Interview of Prodromal Symptoms Negative Symptom Inventory - Psychosis Risk  </description>
     </item>
     
     <item>
@@ -34,8 +25,26 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kaitlynbarriere.com/elements/</guid>
-      <description> Table of contents  Table of contents Text Code  Python C/C++ Bash  Tables  Text Some example text
-Code Python def foo(): print (&amp;quot;This is a python function&amp;quot;)  C/C++ void foo(){ prinf(&amp;quot;%s\n&amp;quot;, &amp;quot;This is a C function&amp;quot;) }  Bash # This is a bash command cd dir &amp;amp;&amp;amp; echo $PWD; # Return exit 0;  Tables    Pages Elements     1 Text   2 Code   3 Tables    </description>
+      <description>Table of contents  Table of contents Text Code  Python C/C++ Bash   Tables  Text Some example text
+Code Python def foo(): print (&amp;#34;This is a python function&amp;#34;) C/C++ void foo(){ prinf(&amp;#34;%s\n&amp;#34;, &amp;#34;This is a C function&amp;#34;) } Bash # This is a bash command cd dir &amp;amp;&amp;amp; echo $PWD; # Return exit 0; Tables    Pages Elements     1 Text   2 Code   3 Tables    </description>
+    </item>
+    
+    <item>
+      <title>Research Interests</title>
+      <link>https://kaitlynbarriere.com/research_interests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaitlynbarriere.com/research_interests/</guid>
+      <description>Suicide and Self-Harm My primary interest is in studying suicide and self-harm, particularly as it relates to masculinity. </description>
+    </item>
+    
+    <item>
+      <title>Vail</title>
+      <link>https://kaitlynbarriere.com/posts/sanfrancisco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaitlynbarriere.com/posts/sanfrancisco/</guid>
+      <description></description>
     </item>
     
   </channel>
